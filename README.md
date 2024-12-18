@@ -8,13 +8,13 @@ I’m **Bassem**, an Electronics and Communication Engineer with a passion for m
 Here are some of the exciting projects I’ve worked on:  
 
 - **Japanese Learning App**  
-  A fun and interactive way to learn Japanese using images and sounds.  
+  A fun and interactive way to learn Japanese using images and sounds.
+
+  - **Morse Code Generator**  
+  Easily convert text to Morse code with a clean and simple UI.  
 
 - **Tunes Player App**  
   An intuitive app for playing and exploring music.  
-
-- **Morse Code Generator**  
-  Easily convert text to Morse code with a clean and simple UI.  
 
 - **Score Counter**  
   A minimal app for tracking scores during games and activities.  
