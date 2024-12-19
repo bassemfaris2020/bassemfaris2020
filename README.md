@@ -17,8 +17,6 @@ Here are some of the exciting projects I’ve worked on:
 A flexible Flutter application designed to track and manage scores for two players in any game. Whether it's basketball, table tennis, or any other competitive game, this app provides an intuitive way to record, update, and reset scores.
  
 
-- **Score Counter**  
-  A minimal app for tracking scores during games and activities.  
 
 ---
 
