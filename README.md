@@ -10,7 +10,7 @@ Here are some of the exciting projects I’ve worked on:
 - **Japanese Learning App**  
   A fun and interactive way to learn Japanese using images and sounds.
   
-- **Morse Code Generator**  
+- **[Morse Code Generator]([https://github.com/your-username/morse-code-generator](https://github.com/bassemfaris2020/morse_code_keyboard))**  
   Easily convert text to Morse code with a clean and simple UI.  
 
 - **Tunes Player App**  
