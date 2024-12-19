@@ -16,8 +16,8 @@ Here are some of the exciting projects I’ve worked on:
 - **[Tow-Player Score Counter](https://github.com/bassemfaris2020/points-counter/tree/main)**  
 A flexible Flutter application designed to track and manage scores for two players in any game. Whether it's basketball, table tennis, or any other competitive game, this app provides an intuitive way to record, update, and reset scores.
  
-
-
+- **[Relaxing Tunes App](https://github.com/bassemfaris2020/Relaxing_tunes_app)**  
+  A relaxing tunes player app built with Flutter and Dart, allowing users to enjoy soothing audio tracks with an intuitive interface.
 ---
 
 ## 💡 Skills  
