@@ -13,8 +13,9 @@ Here are some of the exciting projects I’ve worked on:
 - **[Morse Code Generator](https://github.com/bassemfaris2020/morse_code_keyboard)**  
   Easily convert text to Morse code with a clean and simple UI.  
 
-- **Tunes Player App**  
-  An intuitive app for playing and exploring music.  
+- **[Tow-Player Score Counter](https://github.com/bassemfaris2020/points-counter/tree/main)**  
+A flexible Flutter application designed to track and manage scores for two players in any game. Whether it's basketball, table tennis, or any other competitive game, this app provides an intuitive way to record, update, and reset scores.
+ 
 
 - **Score Counter**  
   A minimal app for tracking scores during games and activities.  
